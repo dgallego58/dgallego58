@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dgallego58
 - 👀 I’m interested in Java, Rust and Shell... usually i put demos of things that i'm learning on my way of software engineer in this profile
-- ☕ I’m a Java Developer also learning JavaScript and starting to with Rust 🤨 ( ❤️ Java FTW!)
+- ☕ I’m a Java Developer also learning JavaScript and starting with Rust 🤨 ( ❤️ Java FTW!)
 - 🌎 Actually i'm just working from home... (i'm from Colombia)
 - 📫 How to reach me send a PM to this github C:
 
